@@ -1,5 +1,10 @@
 public class GitBranching {
-    public void printGoodbye(String name){
-        System.out.println("Goodbye "+name);
+    public void printGoodbye(String names){
+        // this is a comment
+        System.out.println("Goodbye "+names);
+    }
+    
+    public void hello(){
+        // program
     }
 }
