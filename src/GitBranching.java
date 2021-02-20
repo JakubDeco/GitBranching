@@ -6,4 +6,12 @@ public class GitBranching {
     public int calc(){
         return 5*8+7;
     }
+    public void printGoodbye(String names){
+        // this is a comment
+        System.out.println("Goodbye "+names);
+    }
+
+    public void hello(){
+        // program
+    }
 }
